@@ -1,0 +1,9 @@
+{
+  "cmd": "/screen",
+  "time": "2026-06-26T15:36:54.630189",
+  "output": "✅ Screenshot taken",
+  "media": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/chotkof/pizdec/main/results/images/screenshot_20260626_153652.png"
+  }
+}
