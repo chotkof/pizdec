@@ -10,5 +10,9 @@
   {
     "id": "1",
     "cmd": "/screen"
+  },
+  {
+    "id": "2",
+    "cmd": "/screen"
   }
 ]
